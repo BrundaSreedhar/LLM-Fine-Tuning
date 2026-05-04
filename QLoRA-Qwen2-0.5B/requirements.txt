@@ -1,0 +1,7 @@
+torchao
+transformers 
+accelerate 
+bitsandbytes 
+peft 
+datasets<3.0.0
+sentencepiece
